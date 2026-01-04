@@ -1,4 +1,3 @@
-Zeker! Hier zijn **professionele, leesbare notities** die je rechtstreeks kunt kopiëren naar je GitHub-repo (bijv. `cloud-security-notes`). Ze gaan over de TryHackMe room:
 
 👉 **SOC Role in Blue Team**
 📍 [https://tryhackme.com/room/socroleinblueteam](https://tryhackme.com/room/socroleinblueteam)
