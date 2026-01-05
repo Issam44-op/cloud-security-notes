@@ -135,18 +135,3 @@ Belangrijkste leerpunten
 ✔ Incident responsetaken zijn gestructureerd (detect → investigate → contain → …)
 ✔ SIEM en logging zijn fundamenteel in defensive security
 ✔ De room bouwt context, geen scripts — en dat is essentieel om later effectief te werken
-
-
-Persoonlijke reflectie
-
-*Je kunt deze sectie zelf invullen in je notes:*
-
-**Wat vond ik interessant/difficult?**
-
-* …
-
-**Wat ga ik oefenen?**
-
-* …
-
-**Welke termen moet ik beter begrijpen
